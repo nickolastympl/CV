@@ -1,0 +1,15 @@
+/* styles.css */
+button {
+    background-color: #558fcc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; /* Add a cursor style to indicate interactivity */
+}
+
+/* Optional: Hover styles */
+button:hover {
+    background-color: #6183a7; /* Change the background color on hover */
+}
+
